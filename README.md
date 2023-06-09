@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/GpPvVNTG/Wlcme.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.postimg.cc/8z8P2CSf)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Zainul-Aabidheen</h1>
 <h3 align="center">A passionate frontend developer from Maldives</h3>
