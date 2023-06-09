@@ -1,4 +1,4 @@
-[![Wlcme.gif](https://i.postimg.cc/8z8P2CSf/Wlcme.gif)](https://postimg.cc/HV2g5djT)
+[![Wlcme.gif](https://i.postimg.cc/8z8P2CSf/Wlcme.gif)](https://github.io/Zainul-aabidheen)
 
 <h1 align="center">Hi 👋, I'm Zainul-Aabidheen</h1>
 <h3 align="center">A passionate frontend developer from Maldives</h3>
