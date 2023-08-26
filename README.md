@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **zainulaabidheenyoosuf@gmail.com**
 
-- ⚡ Fun fact **I started cording on march and now I've made it this far**
+- ⚡ Fun fact **I started cording on february and now I've made it this far**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
