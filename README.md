@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainul-aabidheen&label=Profile%20views&color=0e75b6&style=flat" alt="zainul-aabidheen" /> </p>
 
-- 🔭 I’m currently working on [Masjid Zikra Prayer Display Website](https://github.com/Zainul-aabidheen/masjid-zikra)
+- 🔭 I’m currently working on an [Online Shop](https://i.postimg.cc/QMg13qQ5/online-shop.jpg)
 
 - 🌱 I’m currently learning **HTML, CSS and Javascript**
 
